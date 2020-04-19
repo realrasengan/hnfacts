@@ -4,6 +4,10 @@
 I noticed that there were many comments on Hacker News that were not backed by fact.
 This *very basic* script helps to leave comments.
 
+This post specifically was hard for me to update so I realized this was needed:
+
+[https://news.ycombinator.com/item?id=22892516](https://news.ycombinator.com/item?id=22892516)
+
 ### How to use
 ```
 node hnfacts.js <file>
