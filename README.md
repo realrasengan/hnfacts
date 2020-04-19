@@ -1,4 +1,4 @@
-# Facts
+# hnfacts
 ## Automatically number your references on a Hacker News comment.
 
 I noticed that there were many comments on Hacker News that were not backed by fact.
