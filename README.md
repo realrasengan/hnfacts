@@ -48,4 +48,5 @@ This script would be great as an extension.
 ### Copyright
 
 Copyright (c) 2020 The Community
+
 MIT Licensed.
