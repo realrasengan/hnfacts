@@ -1,0 +1,6 @@
+This [] is a test [] of the hnfacts.js script [].
+
+[] https://dns.live/
+[] https://news.ycombinator.com/
+[] https://slashdot.org/
+
